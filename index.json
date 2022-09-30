@@ -363,4 +363,14 @@
     "rating":"3/5",
     "date":"30/09/2022"
     },
+    {
+    "id":36,
+    "institute_name": "Thodamal Shahani Engineering college",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the best college of mumbai",
+    "rating":"3.8/5",
+    "date":"30/09/2022"
+    }
 ]
